@@ -1,0 +1,45 @@
+{
+    "categories":[
+    {
+        "name":"Bedroom Furniture",
+        "subcaterogy":[
+        "Single Bed",
+        "Double Bed"
+        ]   
+    },
+    {
+        "name": "Living Room Furniture",
+        "subcaterogy":[
+            "Fabric",
+            "Leather"
+            ]
+    },
+    {
+        "name": "Lamps",
+        "subcaterogy":[
+            "ncandescent",
+            "Tungsten Halogen "
+            ]
+    },
+    {
+        "name": "Computer Table",
+        "subcaterogy":[
+            "Wooden Dressing Tables",
+            "Glass Dressing Tables"
+            ]
+    },
+    {
+        "name": "Tables",
+        "subcaterogy":[
+            "Wooden",
+            "Plastics"
+            ]
+    },
+    {
+        "name": "Chairs",
+        "subcaterogy":[
+            "Sofa",
+            "Desk"
+            ]
+    }
+    ]}
